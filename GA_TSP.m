@@ -1,4 +1,4 @@
-%% 智能算法第四例遗传算法+TSP（简化修改）
+%% 智能算法第四例遗传算法+TSP
 %%清屏
 clear
 clc
@@ -70,5 +70,3 @@ hold on;
 plot(Fitmean,'r');
 legend({'最优值','平均值'},'FontSize',11,'Location','Northeast');
 hold off;
-
-    
